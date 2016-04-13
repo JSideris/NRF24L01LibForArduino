@@ -77,8 +77,6 @@ Retain this copynight notice in all files.
 
 #include <Arduino.h>
 
-#include "api.h"
-
 class NrfSpiClass{
 public:
 	static void begin(int sspin, int cepin, bool primRx, byte channel, char *address);

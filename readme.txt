@@ -18,8 +18,8 @@ Retain this copynight notice in all files.
 
 NRF24L01 Lib for ARDUINO
                                                                                                            
-This code was painstakenly written a number of years ago to interface with the NRF42L01 chip for a few wireless robots I was working on.
-The chip is an amazing product, but it is quite complex, hence the need for a library like this. Let me know if it's helpful - I'm interested!
-I didn't define every single flag in the datasheet, but the basic functionality and a little extra is all here. Feel free to contribute.
+Let me know if this code is helpful - I'm interested!
+I didn't define every single flag in the datasheet, but the basic functionality and a little extra is all here. 
+Feel free to contribute. And of course, let me know if there is a bug. This hasn't been tested in a while :).
 
 Enjoy!
