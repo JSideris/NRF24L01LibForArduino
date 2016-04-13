@@ -18,7 +18,7 @@ Retain this copynight notice in all files.
 
 NRF24L01 Lib for ARDUINO
 
-About This Library
+About This Library:
 • Minimalistic: very easy to get started with and to understand what's going on (if you need to).
 • Easy to use: minimal effort required to get up and running out of the box.
 • Does not rely on Arduino's built-in SPI!!!!
