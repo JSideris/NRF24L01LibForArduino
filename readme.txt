@@ -3,7 +3,7 @@ josh.sideris@gmail.com
 https://github.com/JSideris/NRF24L01LibForArduino
 Code is free to use for hobbiest/educational projects but give me a heads up - I'm interested! 
 Please contact me for commercial use.
-Retain this copynight notice in all files.
+Retain this copyright notice in all files.
   _   _ _____  ______ ___  _  _   _      ___  __     _      _ _              
  | \ | |  __ \|  ____|__ \| || | | |    / _ \/_ |   | |    (_) |             
  |  \| | |__) | |__     ) | || |_| |   | | | || |   | |     _| |__           
